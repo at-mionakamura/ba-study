@@ -1,0 +1,8 @@
+Git研修
+
+今日はギットの研修です。
+今日は二千十六年八月十七日です。
+今日はWednesdayです。
+
+Gitは●●型●●システムです。
+おすすめの学習サイトはhttps://ja.wikipedia.org/wiki/Gitです。
