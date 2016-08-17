@@ -6,3 +6,5 @@ Git研修
 
 Gitは●●型●●システムです。
 おすすめの学習サイトはhttps://ja.wikipedia.org/wiki/Gitです。
+
+この作業をセーブ
