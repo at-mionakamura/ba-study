@@ -5,4 +5,4 @@ Git研修
 今日は水曜日です。
 
 Gitは●●型●●システムです。
-おすすめの学習サイトはhttps://ja.wikipedia.org/wiki/Gitです。
+おすすめの学習サイトはhttp://www.backlog.jp/git-guide/です。
