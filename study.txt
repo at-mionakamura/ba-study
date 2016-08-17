@@ -8,3 +8,4 @@ Gitは●●型●●システムです。
 おすすめの学習サイトはhttps://ja.wikipedia.org/wiki/Gitです。
 
 1回目のコミット
+2回目のコミット
